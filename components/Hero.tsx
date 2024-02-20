@@ -72,7 +72,7 @@ const Hero = () => {
       {/*Right*/}
 
       <div className=' flex flex-1 xl:flexEnd'>
-        <Image  src='/bg.jpg' alt='bg' width={488} height={488} className='  rounded-full'/>
+        <Image  src='/bg.png' alt='bg' width={488} height={488} className='  rounded-full'/>
       </div>
     </section>
   )
