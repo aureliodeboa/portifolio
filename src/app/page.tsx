@@ -1,6 +1,6 @@
 import React from 'react'
 import Skills from '../../components/Skills'
-import Portifolio from '../../components/Portifolio'
+import Portfolio from '../../components/Portfolio'
 import Testimonial from '../../components/Testimonial'
 import About from '../../components/About'
 import Hero from '../../components/Hero'
@@ -12,7 +12,7 @@ const page = () => {
       <Hero/>
       <About/>
       <Skills/>
-      <Portifolio/>
+      <Portfolio/>
       <Testimonial/>
       </>
     </div>
